@@ -1,0 +1,24 @@
+.hide{
+    display: none;
+}
+
+#input_client{ border-radius: 10px;
+    background: white;
+    color: black;
+    width: 400px;
+    height: 26px;
+    font-size: 25px;
+}
+
+mark {
+    background: gray;
+    color: yellow;
+}
+
+.elastic{
+    width: 400px;
+    height: 250px;
+    background: white;
+    overflow: auto;
+    font-size: 20px;
+}
